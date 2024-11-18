@@ -10,21 +10,18 @@
   <div style="margin: -10px 0; display: flex; align-items: center;">
     📚
     <a href="https://git.io/typing-svg" style="margin-left: 8px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=I'm+currently+learning+SOC+and+DFIR." alt="I'm currently+learning SOC and DFIR." style="margin-top: 30px;"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=I'm+currently+learning+SOC+and+DFIR." alt="I'm currently+learning SOC and DFIR." style="margin-top: 17px;"/>
     </a>
   </div>
 
   <div style="margin: -20px 0; display: flex; align-items: center;">
     🎯
     <a href="https://git.io/typing-svg" style="margin-left: 8px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=Goals%3A+SOC+analyst+or+Incident+response." alt="Goals: SOC analyst or Incident response." style="margin-top: 30px;"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=Goals%3A+SOC+analyst+or+Incident+response." alt="Goals: SOC analyst or Incident response." style="margin-top: 17px;"/>
     </a>
   </div>
 </div>
 
-
-
-###
 ## ✉️ Find me on:
 
 <div align="center">
@@ -40,7 +37,6 @@
 </div>
 
 ## 🧰 Languages and Tools:
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -62,13 +58,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/WalterDrake/WalterDrake/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
 
 ## GitHub Stats
 <div align="center">
@@ -77,10 +69,8 @@
   <img src="https://streak-stats.demolab.com?user=WalterDrake&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 ## 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=WalterDrake&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
