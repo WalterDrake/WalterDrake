@@ -5,6 +5,7 @@
 <h4 align="left">📚 I'm currently learning SOC and DFIR<br>🎯 Goals: SOC analyst or Incident response</h4>
 
 ###
+### ✉️ Find me on:
 
 <div align="left">
   <a href="https://discordapp.com/users/463230120505638923" target="_blank">
@@ -38,7 +39,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/WalterDrake/WalterDrake/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WalterDrake/WalterDrake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
