@@ -19,10 +19,7 @@
   </a>
 </div>
 
-###
-
-<img align="left" height="150" src="https://i.postimg.cc/5tQHqbVQ/N-ng-th-18-1.jpg"  />
-
+### 🧰 Languages and Tools:
 ###
 
 <div align="left">
@@ -39,7 +36,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/WalterDrake/WalterDrake/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/WalterDrake/WalterDrake/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
