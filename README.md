@@ -10,14 +10,14 @@
   <div style="margin: -10px 0; display: flex; align-items: center;">
     📚
     <a href="https://git.io/typing-svg" style="margin-left: 8px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=I'm+currently+learning+SOC+and+DFIR." alt="I'm currently+learning SOC and DFIR." style="margin-top: 17px;"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=I'm+currently+learning+SOC+and+DFIR." alt="I'm currently+learning SOC and DFIR." style="margin-top: 30px;"/>
     </a>
   </div>
 
   <div style="margin: -20px 0; display: flex; align-items: center;">
     🎯
     <a href="https://git.io/typing-svg" style="margin-left: 8px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=Goals%3A+SOC+analyst+or+Incident+response." alt="Goals: SOC analyst or Incident response." style="margin-top: 17px;"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=Goals%3A+SOC+analyst+or+Incident+response." alt="Goals: SOC analyst or Incident response." style="margin-top: 30px;"/>
     </a>
   </div>
 </div>
