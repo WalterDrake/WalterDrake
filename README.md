@@ -1,13 +1,33 @@
-<h2 align="left">Hi 👋! My name is WalterDrake and I'm a SOC newbie</h2>
+<div style="text-align: left; line-height: 1.2;">
+  <h2 style="margin: 0; display: flex; align-items: center;">
+    Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi" style="margin-left: 5px;"> !
+  </h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=88D485&width=530&height=30&lines=My+name+is+WalterDrake+and+I'm+a+SOC+newbie." 
+    alt="My name is WalterDrake and I'm a SOC newbie." style="margin: 3px 0;">
+  </a>
+
+  <div style="margin: -10px 0; display: flex; align-items: center;">
+    📚
+    <a href="https://git.io/typing-svg" style="margin-left: 8px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=I'm+currently+learning+SOC+and+DFIR." alt="I'm currently+learning SOC and DFIR." style="margin-top: 17px;"/>
+    </a>
+  </div>
+
+  <div style="margin: -20px 0; display: flex; align-items: center;">
+    🎯
+    <a href="https://git.io/typing-svg" style="margin-left: 8px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=88D485&width=450&height=30&lines=Goals%3A+SOC+analyst+or+Incident+response." alt="Goals: SOC analyst or Incident response." style="margin-top: 17px;"/>
+    </a>
+  </div>
+</div>
+
+
 
 ###
+## ✉️ Find me on:
 
-<h4 align="left">📚 I'm currently learning SOC and DFIR<br>🎯 Goals: SOC analyst or Incident response</h4>
-
-###
-### ✉️ Find me on:
-
-<div align="left">
+<div align="center">
   <a href="https://discordapp.com/users/463230120505638923" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -19,10 +39,10 @@
   </a>
 </div>
 
-### 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -50,11 +70,16 @@
 
 ###
 
-
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WalterDrake&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WalterDrake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=WalterDrake&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+## 🏆 Trophies
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=WalterDrake&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
