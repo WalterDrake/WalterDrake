@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is WalterDrake and I'm a SOC newbie.</h2>
+<h2 align="left">Hi 👋! My name is WalterDrake and I'm a SOC newbie</h2>
+
+###
+
+<h4 align="left">📚 I'm currently learning SOC and DFIR<br>🎯 Goals: SOC analyst or Incident response</h4>
 
 ###
 
